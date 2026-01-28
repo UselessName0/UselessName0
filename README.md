@@ -11,11 +11,11 @@ My coding journey started with software development, but my true passion lies in
 
 ### 🎓 Education
 **University of Naples Federico II** – Degree in Computer Science
-* **Enrollment: 2023 – Present (Expected Graduation: 2026)
-* **GPA: 24.10/30 (3 exams remaining)
+* Enrollment: 2023 – Present (Expected Graduation: 2026)
+* GPA: 24.10/30 (3 exams remaining)
 
 **Cristoforo Colombo Scientific High School** – Scientific High School Diploma
-* **Enrollment: 2018 - 2023
+* Enrollment: 2018 - 2023
 
 ──────────────────────────────────────
 
